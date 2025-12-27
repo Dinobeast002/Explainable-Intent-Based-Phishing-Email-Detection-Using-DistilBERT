@@ -1,0 +1,2 @@
+Overview
+This project presents an explainable and scalable phishing email detection system built using DistilBERT. The system performs binary phishing detection, intent-based categorization, and post-hoc explanation generation using deterministic rules. Unlike LLM-based approaches, this solution emphasizes reproducibility, efficiency, and transparency, making it suitable for real-world cybersecurity operations.
